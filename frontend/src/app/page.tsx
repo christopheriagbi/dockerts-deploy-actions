@@ -27,7 +27,7 @@ export default function Home() {
           CI/CD Test 🚀
         </h2>
         <p className="mt-1 text-sm text-indigo-600 dark:text-indigo-400">
-          My first automated deployment is working needs to be done!
+          My first automated deployment is working needs to be done chris
         </p>
       </div>
       <footer className="mt-10 text-xs text-slate-400 dark:text-slate-500">
